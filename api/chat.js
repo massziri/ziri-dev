@@ -216,7 +216,7 @@ async function sendLeadToBrevo(lead) {
               <p style="color:#475569;line-height:1.7;">We typically respond <strong>within 24 hours</strong> with a tailored proposal for your project.</p>
               ${lead.service ? `<p style="background:#f0f9ff;border-left:4px solid #2d9e5e;padding:12px 16px;border-radius:4px;color:#0d2e1c;"><strong>Your project:</strong> ${lead.service}</p>` : ''}
               <div style="text-align:center;margin:28px 0;">
-                <a href="https://ziri-dev.vercel.app/#contact" style="background:#2d9e5e;color:#fff;padding:14px 28px;border-radius:8px;text-decoration:none;font-weight:700;display:inline-block;">View Our Portfolio →</a>
+                <a href="https://ziridev.vercel.app/#contact" style="background:#2d9e5e;color:#fff;padding:14px 28px;border-radius:8px;text-decoration:none;font-weight:700;display:inline-block;">View Our Portfolio →</a>
               </div>
               <hr style="border:none;border-top:1px solid #e2e8f0;margin:24px 0;">
               <p style="font-size:.82rem;color:#94a3b8;text-align:center;">Ziri Dev · admin@novatvhub.com · WhatsApp: <a href="https://wa.me/212665103031" style="color:#2d9e5e;">+212 665 103 031</a></p>
