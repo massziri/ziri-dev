@@ -10,7 +10,7 @@
   const API_ENDPOINT    = '/api/chat';
   const AUTO_OPEN_DELAY = 12000; // 12 seconds
   const WA_NUMBER       = '212665103031';
-  const SITE_URL        = 'https://ziri-dev.vercel.app';
+  const SITE_URL        = 'https://ziridev.vercel.app';
 
   /* ── Excluded words that are NOT names ── */
   const NOT_NAMES = new Set([
