@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://ziri-dev.vercel.app/sitemap.xml
+Sitemap: https://ziridev.vercel.app/sitemap.xml
